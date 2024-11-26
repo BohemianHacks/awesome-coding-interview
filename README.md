@@ -1866,7 +1866,3 @@
 - [2015: 大规模高可用性：构建Google广告数据基础设施](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf)
 - [2015: 开发人员如何搜索代码：一个案例研究](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - 更多论文： [1,000篇论文](https://github.com/0voice/computer_expert_paper)
-
-## LICENSE
-
-[CC-BY-SA-4.0](https://github.com/jwasham/coding-interview-university/blob/main/LICENSE.txt)
