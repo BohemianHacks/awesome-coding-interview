@@ -9,14 +9,6 @@
 >
 > **祝你好运!**
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>成为赞助商</strong> 并支持编程大学！</a>
-    </p>
-    <hr />
-</div>
-
 ## 这是？
 
 ![白板上编程 ———— 来自 HBO 频道的剧集，“硅谷”](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -182,40 +174,6 @@
 
 在学习过程中，我使用 GitHub 特殊语法的 Markdown 去检查计划的进展，包括使用包含任务进度的任务列表。
 - [更多关于 Github-flavored Markdown 的详情](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### 如果你不想使用 Git
-
-在该页面上，单击顶部附近的 Code 按钮，然后单击“Download ZIP”。解压文件，就可以使用文本文件了。
-
-如果你打开一个代码编辑器，你会看到所有格式都很好。
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### 如果你不介意 Git
-
-创建一个新的分支，这样你就可以检查类似这样的项目了，只需在方括号中放入一个x：[x]
-
-1. 在 GitHub 上 Fork 该仓库： 点击 Fork 按钮，将 `https://github.com/jwasham/coding-interview-university` 仓库复制到你的 GitHub 账号中。
-
-    ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
-
-2. 克隆项目到本地：
-
-    ```
-    git clone git@github.com:<your_github_username>/coding-interview-university.git
-    cd coding-interview-university
-    git remote add upstream https://github.com/jwasham/coding-interview-university
-    git remote set-url --push upstream DISABLE  # 这样你就不会将个人进展推回到原始仓库了。
-    ```
-
-3. 在你完成了一些修改后，在框框中打 x：
-
-    ```
-    git commit -am "Marked personal progress"
-    git pull upstream main  # 将您的分支与原始仓库中的更改保持最新
-      
-    git push # just pushes to your fork
-    ```
 
 ## 不要觉得自己不够聪明
 
